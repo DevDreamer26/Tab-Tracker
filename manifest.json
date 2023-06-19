@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "version":"1.1",
+    "name": "AB Tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"dollar.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
+
